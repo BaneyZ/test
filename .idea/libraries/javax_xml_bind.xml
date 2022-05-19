@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javax.xml.bind">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/IdeaProjects/IteratorPattern/src/lib/mssql-jdbc-6.4.0.jre7.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/IteratorPattern/src/lib/mssql-jdbc-6.4.0.jre8.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/IteratorPattern/src/lib/mssql-jdbc-6.4.0.jre9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
